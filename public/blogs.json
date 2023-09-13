@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/8xpfMjZ/b-1.jpg",
+      "title": "The Secret of the Enchanted Forest",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+      "reading_time": 5,
+      "posted_date": "2023-09-12",
+      "hashtags": ["#fantasy", "#adventure", "#magic"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/4gfkMLc/b-2.jpg",
+      "title": "Mystery at Midnight Manor",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+      "reading_time": 10,
+      "posted_date": "2023-09-11",
+      "hashtags": ["#mystery", "#suspense", "#detective"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/BczWgYZ/b-5.jpg",
+      "title": "Artistic Expression",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+      "reading_time": 20,
+      "posted_date": "2023-09-10",
+      "hashtags": ["#cooking", "#recipes", "#foodie"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/c22KStD/b-4.jpg",
+      "title": "Exploring the Cosmos",
+      "author": "David Clark",
+      "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+      "reading_time": 40,
+      "posted_date": "2023-09-09",
+      "hashtags": ["#space", "#science", "#astronomy"]
+    }
+  ]
+  
